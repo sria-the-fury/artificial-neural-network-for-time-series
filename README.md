@@ -12,3 +12,4 @@ Installing necessary package
 ```python
 pip install jupyterlab yfinance
 ```
+Make sure to include the "venv" to gitignore
